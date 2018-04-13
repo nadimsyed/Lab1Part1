@@ -10,7 +10,7 @@ namespace Lab1Part1
     {
         static void Main(string[] args)
         {
-            //In Lab one instruction it asks the task be written in a seperate method, so I put all the code into a seperate method to make the Main as clean as possible.
+            //In Lab one instruction it asks the task be written in a seperate method, so I put all the code into a seperate method to make the Main as clean as possible
 
             Digits();
         }
